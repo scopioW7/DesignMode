@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\workProject\\DesignMode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FBC05F-E7CF-4C40-A019-14EA8C6AE9B5}|Builder\\Builder.vcxproj|E:\\workProject\\DesignMode\\Builder\\ShipBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0FBC05F-E7CF-4C40-A019-14EA8C6AE9B5}|Builder\\Builder.vcxproj|solutionrelative:Builder\\ShipBuilder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FBC05F-E7CF-4C40-A019-14EA8C6AE9B5}|Builder\\Builder.vcxproj|E:\\workProject\\DesignMode\\Builder\\ShipBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0FBC05F-E7CF-4C40-A019-14EA8C6AE9B5}|Builder\\Builder.vcxproj|solutionrelative:Builder\\ShipBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FBC05F-E7CF-4C40-A019-14EA8C6AE9B5}|Builder\\Builder.vcxproj|E:\\workProject\\DesignMode\\Builder\\Builder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0FBC05F-E7CF-4C40-A019-14EA8C6AE9B5}|Builder\\Builder.vcxproj|solutionrelative:Builder\\Builder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE498600-9EF4-4626-B859-D018E57C4838}|AbstractFactory\\AbstractFactory.vcxproj|E:\\workProject\\DesignMode\\AbstractFactory\\AbstractFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE498600-9EF4-4626-B859-D018E57C4838}|AbstractFactory\\AbstractFactory.vcxproj|solutionrelative:AbstractFactory\\AbstractFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386BA741-B164-40DD-8AEB-02D9291AF877}|DesignMode\\DesignMode.vcxproj|E:\\workProject\\DesignMode\\DesignMode\\Singleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{386BA741-B164-40DD-8AEB-02D9291AF877}|DesignMode\\DesignMode.vcxproj|solutionrelative:DesignMode\\Singleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|E:\\workProject\\DesignMode\\SimpleFactory\\SimpleFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|solutionrelative:SimpleFactory\\SimpleFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE498600-9EF4-4626-B859-D018E57C4838}|AbstractFactory\\AbstractFactory.vcxproj|E:\\workProject\\DesignMode\\AbstractFactory\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE498600-9EF4-4626-B859-D018E57C4838}|AbstractFactory\\AbstractFactory.vcxproj|solutionrelative:AbstractFactory\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE498600-9EF4-4626-B859-D018E57C4838}|AbstractFactory\\AbstractFactory.vcxproj|E:\\workProject\\DesignMode\\AbstractFactory\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE498600-9EF4-4626-B859-D018E57C4838}|AbstractFactory\\AbstractFactory.vcxproj|solutionrelative:AbstractFactory\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|E:\\workProject\\DesignMode\\SimpleFactory\\SmileFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|solutionrelative:SimpleFactory\\SmileFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|E:\\workProject\\DesignMode\\SimpleFactory\\SmileFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|solutionrelative:SimpleFactory\\SmileFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|E:\\workProject\\DesignMode\\SimpleFactory\\SmileObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|solutionrelative:SimpleFactory\\SmileObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|E:\\workProject\\DesignMode\\SimpleFactory\\SmileObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0F01268-7BF0-4317-8A32-5CD56C33E292}|SimpleFactory\\SimpleFactory.vcxproj|solutionrelative:SimpleFactory\\SmileObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipBuilder.cpp",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\Builder\\ShipBuilder.cpp",
+              "RelativeDocumentMoniker": "Builder\\ShipBuilder.cpp",
+              "ToolTip": "E:\\workProject\\DesignMode\\Builder\\ShipBuilder.cpp",
+              "RelativeToolTip": "Builder\\ShipBuilder.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T09:11:50.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShipBuilder.h",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\Builder\\ShipBuilder.h",
+              "RelativeDocumentMoniker": "Builder\\ShipBuilder.h",
+              "ToolTip": "E:\\workProject\\DesignMode\\Builder\\ShipBuilder.h",
+              "RelativeToolTip": "Builder\\ShipBuilder.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-08T08:50:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Builder.cpp",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\Builder\\Builder.cpp",
+              "RelativeDocumentMoniker": "Builder\\Builder.cpp",
+              "ToolTip": "E:\\workProject\\DesignMode\\Builder\\Builder.cpp",
+              "RelativeToolTip": "Builder\\Builder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T12:05:33.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractFactory.cpp",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\AbstractFactory\\AbstractFactory.cpp",
+              "RelativeDocumentMoniker": "AbstractFactory\\AbstractFactory.cpp",
+              "ToolTip": "E:\\workProject\\DesignMode\\AbstractFactory\\AbstractFactory.cpp",
+              "RelativeToolTip": "AbstractFactory\\AbstractFactory.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T03:37:58.332Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ship.cpp",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\AbstractFactory\\Ship.cpp",
+              "RelativeDocumentMoniker": "AbstractFactory\\Ship.cpp",
+              "ToolTip": "E:\\workProject\\DesignMode\\AbstractFactory\\Ship.cpp",
+              "RelativeToolTip": "AbstractFactory\\Ship.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAzwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T07:34:49.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ship.h",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\AbstractFactory\\Ship.h",
+              "RelativeDocumentMoniker": "AbstractFactory\\Ship.h",
+              "ToolTip": "E:\\workProject\\DesignMode\\AbstractFactory\\Ship.h",
+              "RelativeToolTip": "AbstractFactory\\Ship.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T03:38:26.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmileFactory.cpp",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\SimpleFactory\\SmileFactory.cpp",
+              "RelativeDocumentMoniker": "SimpleFactory\\SmileFactory.cpp",
+              "ToolTip": "E:\\workProject\\DesignMode\\SimpleFactory\\SmileFactory.cpp",
+              "RelativeToolTip": "SimpleFactory\\SmileFactory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T02:42:42.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SmileFactory.h",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\SimpleFactory\\SmileFactory.h",
+              "RelativeDocumentMoniker": "SimpleFactory\\SmileFactory.h",
+              "ToolTip": "E:\\workProject\\DesignMode\\SimpleFactory\\SmileFactory.h",
+              "RelativeToolTip": "SimpleFactory\\SmileFactory.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T02:42:24.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmileObject.cpp",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\SimpleFactory\\SmileObject.cpp",
+              "RelativeDocumentMoniker": "SimpleFactory\\SmileObject.cpp",
+              "ToolTip": "E:\\workProject\\DesignMode\\SimpleFactory\\SmileObject.cpp",
+              "RelativeToolTip": "SimpleFactory\\SmileObject.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T02:15:47.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmileObject.h",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\SimpleFactory\\SmileObject.h",
+              "RelativeDocumentMoniker": "SimpleFactory\\SmileObject.h",
+              "ToolTip": "E:\\workProject\\DesignMode\\SimpleFactory\\SmileObject.h",
+              "RelativeToolTip": "SimpleFactory\\SmileObject.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T02:13:00.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleFactory.cpp",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\SimpleFactory\\SimpleFactory.cpp",
+              "RelativeDocumentMoniker": "SimpleFactory\\SimpleFactory.cpp",
+              "ToolTip": "E:\\workProject\\DesignMode\\SimpleFactory\\SimpleFactory.cpp",
+              "RelativeToolTip": "SimpleFactory\\SimpleFactory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T03:15:26.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Singleton.cpp",
+              "DocumentMoniker": "E:\\workProject\\DesignMode\\DesignMode\\Singleton.cpp",
+              "RelativeDocumentMoniker": "DesignMode\\Singleton.cpp",
+              "ToolTip": "E:\\workProject\\DesignMode\\DesignMode\\Singleton.cpp",
+              "RelativeToolTip": "DesignMode\\Singleton.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T02:53:23.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
